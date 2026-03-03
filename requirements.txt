@@ -4,3 +4,6 @@ numpy
 joblib
 shap
 matplotlib
+scikit-learn
+xgboost
+imbalanced-learn
